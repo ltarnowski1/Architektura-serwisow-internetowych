@@ -1,8 +1,8 @@
-### Nazwa Zespołu – Łukasz Tarnowski
+### Morony – Łukasz Tarnowski (czlowiek-plec), Dawid Szczutkowski (dejw), Łukasz Zawistowski (zawis), Krystian Szewczyk (sloikowy baron)
 
 1. Zaliczenie:
- - [ ] [nazwa aplikacji](zaliczenie)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ - [ ] [Studenci - CRUD](https://github.com/ltarnowski1/ASI-Project1)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://project1-rails-tarnowski-1.c9users.io)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
